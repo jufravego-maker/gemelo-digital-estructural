@@ -11,6 +11,18 @@ con herramientas Open Source, control de versiones en GitHub y despliegue en Goo
 > (huellas GIS, tabla maestra de sensores, hojas COBie y telemetría sintética). Los scripts ETL para
 > Shapefile, IFC y COBie reales están listos para usarse cuando se carguen los archivos del proyecto.
 
+## Probar sin instalar nada
+
+[![Abrir en GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jufravego-maker/gemelo-digital-estructural?quickstart=1)
+
+1. Inicie sesión en GitHub (cuenta gratuita) y haga clic en el botón de arriba → **Create codespace**.
+2. Espere 2–4 minutos la primera vez (instala dependencias automáticamente).
+3. El **dashboard** se abre solo en una pestaña nueva. Si no, vaya a la pestaña **Ports** (Puertos)
+   del editor y abra el puerto **5173** (ícono de globo 🌐).
+
+> Cuando termine, detenga el Codespace en <https://github.com/codespaces> para no consumir horas
+> (el plan gratuito incluye unas 60 h/mes). Los registros están en `/tmp/api.log` y `/tmp/dashboard.log`.
+
 ---
 
 ## Modelo de interoperabilidad (AIM federado)
