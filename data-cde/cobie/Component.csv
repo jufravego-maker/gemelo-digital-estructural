@@ -1,0 +1,16 @@
+Name,TypeName,Space,Description,ExtSystem,ExtObject,ExtIdentifier,TagNumber,AssetIdentifier,InstallationDate
+E01-C-A1-N1,Columna concreto 50x50,EDIF-01-N1,Columna esquinera eje A-1,Revit 2025 / IFC4,IfcColumn,1hQ5Rk9vT2mXa8LpE1C001,S-E01-01,AT-E01-C001,2018-03-15
+E01-C-B2-N3,Columna concreto 45x45,EDIF-01-N3,Columna interior eje B-2,Revit 2025 / IFC4,IfcColumn,1hQ5Rk9vT2mXa8LpE1C002,S-E01-02,AT-E01-C002,2018-05-02
+E01-V-B1C1-N2,Viga concreto 35x50,EDIF-01-N2,Viga de pórtico eje 1 entre B y C,Revit 2025 / IFC4,IfcBeam,1hQ5Rk9vT2mXa8LpE1B001,S-E01-03,AT-E01-B001,2018-04-10
+E01-M-A3B3-N1,Muro de cortante e=30,EDIF-01-N1,Muro estructural eje 3 entre A y B,Revit 2025 / IFC4,IfcWall,1hQ5Rk9vT2mXa8LpE1W001,S-E01-04,AT-E01-W001,2018-03-20
+E02-C-A1-N1,Columna concreto 60x60,EDIF-02-N1,Columna esquinera eje A-1,Revit 2025 / IFC4,IfcColumn,1hQ5Rk9vT2mXa8LpE2C001,S-E02-01,AT-E02-C001,2015-07-01
+E02-C-C2-N4,Columna concreto 50x50,EDIF-02-N4,Columna interior eje C-2,Revit 2025 / IFC4,IfcColumn,1hQ5Rk9vT2mXa8LpE2C002,S-E02-02,AT-E02-C002,2015-10-14
+E02-V-B1C1-N3,Viga concreto 40x55,EDIF-02-N3,Viga de pórtico eje 1 entre B y C,Revit 2025 / IFC4,IfcBeam,1hQ5Rk9vT2mXa8LpE2B001,S-E02-03,AT-E02-B001,2015-09-03
+E02-M-D1E1-N1,Muro de cortante e=35,EDIF-02-N1,Muro estructural eje 1 entre D y E,Revit 2025 / IFC4,IfcWall,1hQ5Rk9vT2mXa8LpE2W001,S-E02-04,AT-E02-W001,2015-07-20
+E03-C-B2-N1,Columna concreto 45x45,EDIF-03-N1,Columna interior eje B-2,Revit 2025 / IFC4,IfcColumn,1hQ5Rk9vT2mXa8LpE3C001,S-E03-01,AT-E03-C001,2009-02-11
+E03-C-C3-N2,Columna concreto 45x45,EDIF-03-N2,Columna interior eje C-3,Revit 2025 / IFC4,IfcColumn,1hQ5Rk9vT2mXa8LpE3C002,S-E03-02,AT-E03-C002,2009-03-30
+E03-V-A2B2-N3,Viga concreto 30x45,EDIF-03-N3,Viga de pórtico eje 2 entre A y B,Revit 2025 / IFC4,IfcBeam,1hQ5Rk9vT2mXa8LpE3B001,S-E03-03,AT-E03-B001,2009-05-06
+E03-M-A4B4-N1,Muro de cortante e=25,EDIF-03-N1,Muro estructural eje 4 entre A y B,Revit 2025 / IFC4,IfcWall,1hQ5Rk9vT2mXa8LpE3W001,S-E03-04,AT-E03-W001,2009-02-25
+E04-C-A1-N1,Columna concreto 40x40,EDIF-04-N1,Columna esquinera eje A-1 (referencia),Revit 2025 / IFC4,IfcColumn,1hQ5Rk9vT2mXa8LpE4C001,,AT-E04-C001,2021-06-08
+E04-V-A1B1-N2,Viga concreto 30x45,EDIF-04-N2,Viga de pórtico eje 1 entre A y B (referencia),Revit 2025 / IFC4,IfcBeam,1hQ5Rk9vT2mXa8LpE4B001,,AT-E04-B001,2021-07-19
+E04-M-A3B3-N1,Muro de cortante e=25,EDIF-04-N1,Muro estructural eje 3 entre A y B (referencia),Revit 2025 / IFC4,IfcWall,1hQ5Rk9vT2mXa8LpE4W001,,AT-E04-W001,2021-06-15

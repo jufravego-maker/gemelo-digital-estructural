@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "name": "edificaciones",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "building_id": "EDIF-01", "name": "Edificio Administrativo", "is_monitored": true, "use_type": "Oficinas", "levels": 6, "bays_x": 3, "bays_y": 2, "year_built": 2018 },
+      "geometry": { "type": "Polygon", "coordinates": [[[-74.06610, 4.62800], [-74.06570, 4.62800], [-74.06570, 4.62825], [-74.06610, 4.62825], [-74.06610, 4.62800]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "building_id": "EDIF-02", "name": "Torre de Laboratorios", "is_monitored": true, "use_type": "Laboratorios", "levels": 8, "bays_x": 4, "bays_y": 2, "year_built": 2015 },
+      "geometry": { "type": "Polygon", "coordinates": [[[-74.06540, 4.62795], [-74.06490, 4.62795], [-74.06490, 4.62822], [-74.06540, 4.62822], [-74.06540, 4.62795]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "building_id": "EDIF-03", "name": "Bloque de Aulas", "is_monitored": true, "use_type": "Educativo", "levels": 5, "bays_x": 3, "bays_y": 3, "year_built": 2009 },
+      "geometry": { "type": "Polygon", "coordinates": [[[-74.06612, 4.62730], [-74.06575, 4.62730], [-74.06575, 4.62765], [-74.06612, 4.62765], [-74.06612, 4.62730]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "building_id": "EDIF-04", "name": "Edificio de Referencia", "is_monitored": false, "use_type": "Bienestar", "levels": 4, "bays_x": 2, "bays_y": 2, "year_built": 2021 },
+      "geometry": { "type": "Polygon", "coordinates": [[[-74.06535, 4.62735], [-74.06500, 4.62735], [-74.06500, 4.62760], [-74.06535, 4.62760], [-74.06535, 4.62735]]] }
+    }
+  ]
+}

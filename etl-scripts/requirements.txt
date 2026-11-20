@@ -1,0 +1,9 @@
+pandas>=2.2
+openpyxl>=3.1
+numpy>=1.26
+geopandas>=1.0
+pyogrio>=0.9
+ifcopenshell>=0.8
+psycopg[binary]>=3.2
+paho-mqtt>=2.1
+requests>=2.32

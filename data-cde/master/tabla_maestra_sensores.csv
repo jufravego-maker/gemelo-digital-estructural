@@ -1,0 +1,13 @@
+sensor_id,building_id,ifc_global_id,ifc_class,element_name,level,grid_x,grid_y,sensor_type,k_design_kn_m,modal_mass_t,installed_on
+S-E01-01,EDIF-01,1hQ5Rk9vT2mXa8LpE1C001,IfcColumn,E01-C-A1-N1,1,0,0,acelerometro,52000,135,2026-08-04
+S-E01-02,EDIF-01,1hQ5Rk9vT2mXa8LpE1C002,IfcColumn,E01-C-B2-N3,3,1,1,acelerometro,48000,124,2026-08-04
+S-E01-03,EDIF-01,1hQ5Rk9vT2mXa8LpE1B001,IfcBeam,E01-V-B1C1-N2,2,1,0,galga_extensometrica,31000,80,2026-08-05
+S-E01-04,EDIF-01,1hQ5Rk9vT2mXa8LpE1W001,IfcWall,E01-M-A3B3-N1,1,0,2,inclinometro,95000,210,2026-08-05
+S-E02-01,EDIF-02,1hQ5Rk9vT2mXa8LpE2C001,IfcColumn,E02-C-A1-N1,1,0,0,acelerometro,61000,158,2026-08-11
+S-E02-02,EDIF-02,1hQ5Rk9vT2mXa8LpE2C002,IfcColumn,E02-C-C2-N4,4,2,1,acelerometro,55000,142,2026-08-11
+S-E02-03,EDIF-02,1hQ5Rk9vT2mXa8LpE2B001,IfcBeam,E02-V-B1C1-N3,3,1,0,galga_extensometrica,34000,88,2026-08-12
+S-E02-04,EDIF-02,1hQ5Rk9vT2mXa8LpE2W001,IfcWall,E02-M-D1E1-N1,1,3,0,inclinometro,102000,226,2026-08-12
+S-E03-01,EDIF-03,1hQ5Rk9vT2mXa8LpE3C001,IfcColumn,E03-C-B2-N1,1,1,1,acelerometro,47000,121,2026-08-18
+S-E03-02,EDIF-03,1hQ5Rk9vT2mXa8LpE3C002,IfcColumn,E03-C-C3-N2,2,2,2,acelerometro,45000,117,2026-08-18
+S-E03-03,EDIF-03,1hQ5Rk9vT2mXa8LpE3B001,IfcBeam,E03-V-A2B2-N3,3,0,1,galga_extensometrica,29000,76,2026-08-19
+S-E03-04,EDIF-03,1hQ5Rk9vT2mXa8LpE3W001,IfcWall,E03-M-A4B4-N1,1,0,3,inclinometro,88000,198,2026-08-19
