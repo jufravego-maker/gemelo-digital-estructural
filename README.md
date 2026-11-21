@@ -17,11 +17,19 @@ con herramientas Open Source, control de versiones en GitHub y despliegue en Goo
 
 1. Inicie sesión en GitHub (cuenta gratuita) y haga clic en el botón de arriba → **Create codespace**.
 2. Espere 2–4 minutos la primera vez (instala dependencias automáticamente).
-3. El **dashboard** se abre solo en una pestaña nueva. Si no, vaya a la pestaña **Ports** (Puertos)
-   del editor y abra el puerto **5173** (ícono de globo 🌐).
+3. La API y el dashboard arrancan solos en dos terminales (`api` y `dashboard`). Cuando la terminal
+   `dashboard` muestre `Local: http://localhost:5173/`, abra la pestaña **Puertos** (Ports) y haga
+   clic en el globo 🌐 del puerto **5173**.
+
+Si el puerto 5173 responde *HTTP 502*, el dashboard no está corriendo. Arránquelo en una terminal nueva:
+
+```bash
+bash .devcontainer/run-api.sh &
+bash .devcontainer/run-dashboard.sh
+```
 
 > Cuando termine, detenga el Codespace en <https://github.com/codespaces> para no consumir horas
-> (el plan gratuito incluye unas 60 h/mes). Los registros están en `/tmp/api.log` y `/tmp/dashboard.log`.
+> (el plan gratuito incluye unas 60 h/mes).
 
 ---
 

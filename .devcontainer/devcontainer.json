@@ -5,7 +5,10 @@
     "ghcr.io/devcontainers/features/node:1": { "version": "20" }
   },
   "postCreateCommand": "bash .devcontainer/setup.sh",
-  "postStartCommand": "bash .devcontainer/start.sh",
+  "postAttachCommand": {
+    "api": "bash .devcontainer/run-api.sh",
+    "dashboard": "bash .devcontainer/run-dashboard.sh"
+  },
   "forwardPorts": [5173, 8000],
   "portsAttributes": {
     "5173": { "label": "Dashboard", "onAutoForward": "openBrowser" },
